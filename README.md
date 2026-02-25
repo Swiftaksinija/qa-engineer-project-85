@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Swiftaksinija/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Swiftaksinija/qa-engineer-project-85/actions)
 
-**Codebattle ** — это игровая платформа с открытым исходным кодом, где разработчики соревнуются в скорости решения алгоритмических задач на разных языках программирования.
+**Codebattle** — это игровая платформа с открытым исходным кодом, где разработчики соревнуются в скорости решения алгоритмических задач на разных языках программирования.
 
 **Моя роль:** QA Engineer
 Аналитика: Анализировала проект и составляла функциональные требования.
